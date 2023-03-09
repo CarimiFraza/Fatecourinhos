@@ -1,0 +1,31 @@
+body{
+    background-color: #FFDEAD;
+}
+h1{
+    font-size: 16px;
+    color: red;
+    font-family: arial;
+}
+h1{
+    font-size: 14px;
+    color: red;
+    font-family: arial;
+}
+a:link{
+    font-size: 14px;
+    color: blue;
+    font-family: tahoma;
+}
+corpo{
+    font-size: 12px;
+    color: black;
+    font-family: Tahoma;
+}
+table{
+    width: 85%;
+    border-collapse: collapse;
+}
+td,tr{
+    border: 3px solid black;
+    padding: 20px;
+}
